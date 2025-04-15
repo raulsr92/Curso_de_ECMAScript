@@ -1,0 +1,20 @@
+{
+  "name": "ecmascript-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulsr92/Curso_de_ECMAScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulsr92/Curso_de_ECMAScript/issues"
+  },
+  "homepage": "https://github.com/raulsr92/Curso_de_ECMAScript#readme",
+  "description": ""
+}
