@@ -5,11 +5,11 @@ let world = "World"
 
 // Template Literals
 
-console.log(`${hello} ${world}`)
+// console.log(`${hello} ${world}`)
 
 // Son multilínea
 
 let result = `Esta es una frase 
-épica: ${hello} my ${world}`
+épica: ${hello} my ${world}`;
 
 console.log(result)
