@@ -15,5 +15,4 @@ const square3 = num => num * num
 
 let resultado = square3(5)
 
-
 console.log(resultado)
